@@ -10,4 +10,5 @@ The proposed security system can be applied to any vehicle to prevent theft/dama
 
 Execution:
 Exceute fingerprint.ipynb file
-Change parameters given to main() to check different fingerprint images.Images are available in database folder
+Change parameters given to main() to check different fingerprint images.Images are available in database folder. 
+Speech Recognition module, password can be set per user needs.
